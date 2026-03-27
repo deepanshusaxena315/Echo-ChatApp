@@ -1,5 +1,7 @@
 # Echo - Real-Time Chat Application
 
+**🔗 Live Demo:** [https://echo-5la9.onrender.com/](https://echo-5la9.onrender.com/)
+
 A modern, full-stack real-time chat application with user authentication, instant messaging, and theme customization.
 
 ## 📸 Demo Screenshots
