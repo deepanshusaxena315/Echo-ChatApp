@@ -157,16 +157,7 @@ Socket.io enables:
 - Real-time notifications
 - Instant updates across connected clients
 
-## 📱 Responsive Design
-
-Built with Tailwind CSS and DaisyUI, the application is fully responsive on:
-- Desktop
-- Tablet
-- Mobile devices
-
 ## 🌐 Environment Variables
-
-Create `.env` files in both backend and frontend directories as needed:
 
 **Backend (.env)**
 ```
@@ -177,15 +168,5 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 ```
-
-## 📄 License
-
-ISC
-
-## 👨‍💻 Author
-
-Your Name
-
----
 
 **Happy Chatting! 💬**
